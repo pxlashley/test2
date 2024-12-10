@@ -1,0 +1,14 @@
+C:\Users\ashley.durgapersad\source\repos\test2\bin\Debug\Database1.mdf
+C:\Users\ashley.durgapersad\source\repos\test2\bin\Debug\Database1_log.ldf
+C:\Users\ashley.durgapersad\source\repos\test2\bin\Debug\test2.exe.config
+C:\Users\ashley.durgapersad\source\repos\test2\bin\Debug\test2.exe
+C:\Users\ashley.durgapersad\source\repos\test2\bin\Debug\test2.pdb
+C:\Users\ashley.durgapersad\source\repos\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\Users\ashley.durgapersad\source\repos\test2\obj\Debug\test2.Form1.resources
+C:\Users\ashley.durgapersad\source\repos\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\ashley.durgapersad\source\repos\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\ashley.durgapersad\source\repos\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\ashley.durgapersad\source\repos\test2\obj\Debug\test2.exe
+C:\Users\ashley.durgapersad\source\repos\test2\obj\Debug\test2.pdb
+C:\Users\ashley.durgapersad\source\repos\test2\obj\Debug\test2.Login.resources
+C:\Users\ashley.durgapersad\source\repos\test2\obj\Debug\test2.Register.resources
